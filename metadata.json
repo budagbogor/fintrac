@@ -1,0 +1,6 @@
+{
+  "name": "FinAdvisor",
+  "description": "Personal Finance & Smart Investment Advisor with AI Purchase Decision Assistant, Cash Flow Analyzer, and Goal-Based Investment Allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
